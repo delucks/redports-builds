@@ -1,0 +1,5 @@
+%%SITE-PERL%%/lib/SOAP/XML/Client.pm
+%%SITE-PERL%%/lib/SOAP/XML/Client/DotNet.pm
+%%SITE-PERL%%/lib/SOAP/XML/Client/Generic.pm
+@dirrm %%SITE_PERL%%/lib/SOAP/XML/Client
+@dirrmtry %%SITE_PERL%%/lib/SOAP/XML
