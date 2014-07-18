@@ -1,2 +1,4 @@
 %%SITE_PERL%%/DateTime/Event/Cron/Quartz.pm
 @dirrmtry %%SITE_PERL%%/DateTime/Event/Cron/
+@dirrmtry %%SITE_PERL%%/DateTime/Event/
+@dirrmtry %%SITE_PERL%%/DateTime/
