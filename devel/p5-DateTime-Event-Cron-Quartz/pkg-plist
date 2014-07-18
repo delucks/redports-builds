@@ -1,2 +1,2 @@
-%%SITE_PERL%%/lib/DateTime/Event/Cron/Quartz.pm
-@dirrmtry %%SITE_PERL%%/lib/DateTime/Event/Cron/
+%%SITE_PERL%%/DateTime/Event/Cron/Quartz.pm
+@dirrmtry %%SITE_PERL%%/DateTime/Event/Cron/
