@@ -1,2 +1,2 @@
-%%SITE-PERL%%/lib/AnyEvent/DateTime/Cron.pm
+%%SITE_PERL%%/lib/AnyEvent/DateTime/Cron.pm
 @dirrmtry %%SITE_PERL%%/lib/AnyEvent/DateTime/
