@@ -1,6 +1,6 @@
-%%SITE-PERL%%/lib/SOAP/XML/Client.pm
-%%SITE-PERL%%/lib/SOAP/XML/Client/DotNet.pm
-%%SITE-PERL%%/lib/SOAP/XML/Client/Generic.pm
+%%SITE_PERL%%/SOAP/XML/Client.pm
+%%SITE_PERL%%/SOAP/XML/Client/DotNet.pm
+%%SITE_PERL%%/SOAP/XML/Client/Generic.pm
 %%PERL5_MAN3%%/SOAP::XML::Client.gz
-@dirrm %%SITE_PERL%%/lib/SOAP/XML/Client
-@dirrmtry %%SITE_PERL%%/lib/SOAP/XML
+@dirrm %%SITE_PERL%%/SOAP/XML/Client
+@dirrmtry %%SITE_PERL%%/SOAP/XML
