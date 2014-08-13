@@ -1,4 +1,3 @@
-AnyEvent::DateTime::Cron is an AnyEvent based crontab, which supports all crontab formats recognised by DateTime::Event::Cron.
-It allows you to shut down a running instance gracefully, by waiting for any running cron jobs to finish before exiting.
+AnyEvent crontab with DateTime::Event::Cron
 
-WWW: http://search.cpan.org/~
+WWW: http://search.cpan.org/dist/AnyEvent-DateTime-Cron/

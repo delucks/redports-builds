@@ -1,4 +1,3 @@
-SOAP::XML::Client is a simple frame work for talking with web services using SOAP.
-This software is copyright (c) 2012 by Leo Lapworth.
+Simple framework for talking with web services using SOAP.
 
-WWW: http://search.cpan.org/~llap/SOAP-XML-Client-2.7/
+WWW: http://search.cpan.org/dist/SOAP-XML-Client/

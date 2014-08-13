@@ -1,2 +1,3 @@
 %%SITE-PERL%%/lib/DateTime/Event/Cron/Quartz.pm
+%%PERL5_MAN3%%/DateTime::Event::Cron::Quartz
 @dirrmtry %%SITE_PERL%%/lib/DateTime/Event/Cron/

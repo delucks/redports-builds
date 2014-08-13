@@ -26,6 +26,4 @@ RUN_DEPENDS:=	${BUILD_DEPENDS}
 USES=		perl5
 USE_PERL5=	configure
 
-MAN3=		%%PERL5_MAN3%%/SOAP::XML::Client.gz
-
 .include <bsd.port.mk>
