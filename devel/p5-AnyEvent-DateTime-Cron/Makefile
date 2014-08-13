@@ -11,6 +11,7 @@ MAINTAINER=	jamie.delucks@gmail.com
 COMMENT=	AnyEvent crontab with DateTime::Event::Cron
 
 BUILD_DEPENDS=	\
+		p5-Module-Build>=0.3601:${PORTSDIR}/devel/p5-Module-Build \
 		p5-AnyEvent>=0:${PORTSDIR}/devel/p5-AnyEvent \
 		p5-DateTime>=0:${PORTSDIR}/devel/p5-DateTime \
 		p5-DateTime-Event-Cron>=0:${PORTSDIR}/devel/p5-DateTime-Event-Cron \
@@ -19,6 +20,6 @@ BUILD_DEPENDS=	\
 RUN_DEPENDS:=	${BUILD_DEPENDS}
 
 USES=		perl5
-USE_PERL5=	configure
+USE_PERL5=	modbuild
 
 .include <bsd.port.mk>

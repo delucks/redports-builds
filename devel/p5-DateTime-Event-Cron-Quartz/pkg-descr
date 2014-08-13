@@ -1,3 +1,7 @@
 OpenSymphony Quartz cron expression processor
 
+<<<<<<< HEAD
 WWW: http://search.cpan.org/dist/DateTime-Event-Cron-Quartz/
+=======
+WWW: http://search.cpan.org/~vad/DateTime-Event-Cron-Quartz-0.05/
+>>>>>>> 2b0b944612223e63d152b8b74e1fcfa47141dc3a
