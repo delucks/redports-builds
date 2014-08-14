@@ -1,4 +1,4 @@
-# Created by: James Luck <jamie.delucks@gmail.com>
+# Created by: James Luck <jluck@udel.edu>
 # $FreeBSD$
 
 PORTNAME=	DateTime-Event-Cron-Quartz
@@ -7,7 +7,7 @@ CATEGORIES=	devel perl5
 MASTER_SITES=	CPAN
 PKGNAMEPREFIX=	p5-
 
-MAINTAINER=	jamie.delucks@gmail.com
+MAINTAINER=	jluck@udel.edu
 COMMENT=	OpenSymphony Quartz cron expression processor
 
 BUILD_DEPENDS=	\

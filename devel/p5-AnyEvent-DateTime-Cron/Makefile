@@ -1,4 +1,4 @@
-# Created by: James Luck <jamie.delucks@gmail.com>
+# Created by: James Luck <jluck@udel.edu>
 # $FreeBSD$
 
 PORTNAME=	AnyEvent-DateTime-Cron
@@ -7,7 +7,7 @@ CATEGORIES=	devel perl5
 MASTER_SITES=	CPAN
 PKGNAMEPREFIX=	p5-
 
-MAINTAINER=	jamie.delucks@gmail.com
+MAINTAINER=	jluck@udel.edu
 COMMENT=	AnyEvent crontab with DateTime::Event::Cron
 
 BUILD_DEPENDS=	\
