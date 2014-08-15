@@ -11,7 +11,9 @@ MAINTAINER=	jluck@udel.edu
 COMMENT=	Simple Perl framework for talking with SOAP web services
 
 BUILD_DEPENDS=	\
-		p5-ExtUtils-MakeMaker>=0:${PORTSDIR}/devel/p5-ExtUtils-MakeMaker \
+		p5-ExtUtils-MakeMaker>=0:${PORTSDIR}/devel/p5-ExtUtils-MakeMaker
+
+RUN_DEPENDS:=	${BUILD_DEPENDS} \
 		p5-Carp>=0:${PORTSDIR}/devel/p5-Carp \
 		p5-Class-Accessor-Fast-XS>=0:${PORTSDIR}/devel/p5-Class-Accessor-Fast-XS \
 		p5-Encode>=0:${PORTSDIR}/converters/p5-Encode \
@@ -20,8 +22,6 @@ BUILD_DEPENDS=	\
 		p5-SOAP-Lite>=0.67:${PORTSDIR}/net/p5-SOAP-Lite \
 		p5-Scalar-List-Utils>=0:${PORTSDIR}/lang/p5-Scalar-List-Utils \
 		p5-XML-LibXML>=0:${PORTSDIR}/textproc/p5-XML-LibXML
-
-RUN_DEPENDS:=	${BUILD_DEPENDS}
 
 USES=		perl5
 USE_PERL5=	configure
