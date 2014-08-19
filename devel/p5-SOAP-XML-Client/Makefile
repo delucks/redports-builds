@@ -10,8 +10,7 @@ PKGNAMEPREFIX=	p5-
 MAINTAINER=	jluck@udel.edu
 COMMENT=	Simple Perl framework for talking with SOAP web services
 
-BUILD_DEPENDS=	\
-		p5-ExtUtils-MakeMaker>=0:${PORTSDIR}/devel/p5-ExtUtils-MakeMaker
+BUILD_DEPENDS=	p5-ExtUtils-MakeMaker>=0:${PORTSDIR}/devel/p5-ExtUtils-MakeMaker
 
 RUN_DEPENDS:=	${BUILD_DEPENDS} \
 		p5-Carp>=0:${PORTSDIR}/devel/p5-Carp \
